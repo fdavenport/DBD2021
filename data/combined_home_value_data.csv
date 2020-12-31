@@ -1,0 +1,781 @@
+"STATENAME","Adjusted","year","home_value"
+"United States","dollars_2000",2000,119600
+"Alabama","dollars_2000",2000,85100
+"Alaska","dollars_2000",2000,144200
+"Arizona","dollars_2000",2000,121300
+"Arkansas","dollars_2000",2000,72800
+"California","dollars_2000",2000,211500
+"Colorado","dollars_2000",2000,166600
+"Connecticut","dollars_2000",2000,166900
+"Delaware","dollars_2000",2000,130400
+"District of Columbia","dollars_2000",2000,157200
+"Florida","dollars_2000",2000,105500
+"Georgia","dollars_2000",2000,111200
+"Hawaii","dollars_2000",2000,272700
+"Idaho","dollars_2000",2000,106300
+"Illinois","dollars_2000",2000,130800
+"Indiana","dollars_2000",2000,94300
+"Iowa","dollars_2000",2000,82500
+"Kansas","dollars_2000",2000,83500
+"Kentucky","dollars_2000",2000,86700
+"Louisiana","dollars_2000",2000,85000
+"Maine","dollars_2000",2000,98700
+"Maryland","dollars_2000",2000,146000
+"Massachusetts","dollars_2000",2000,185700
+"Michigan","dollars_2000",2000,115600
+"Minnesota","dollars_2000",2000,122400
+"Mississippi","dollars_2000",2000,71400
+"Missouri","dollars_2000",2000,89900
+"Montana","dollars_2000",2000,99500
+"Nebraska","dollars_2000",2000,88000
+"Nevada","dollars_2000",2000,142000
+"New Hampshire","dollars_2000",2000,133300
+"New Jersey","dollars_2000",2000,170800
+"New Mexico","dollars_2000",2000,108100
+"New York","dollars_2000",2000,148700
+"North Carolina","dollars_2000",2000,108300
+"North Dakota","dollars_2000",2000,74400
+"Ohio","dollars_2000",2000,103700
+"Oklahoma","dollars_2000",2000,70700
+"Oregon","dollars_2000",2000,152100
+"Pennsylvania","dollars_2000",2000,97000
+"Rhode Island","dollars_2000",2000,133000
+"South Carolina","dollars_2000",2000,94900
+"South Dakota","dollars_2000",2000,79600
+"Tennessee","dollars_2000",2000,93000
+"Texas","dollars_2000",2000,82500
+"Utah","dollars_2000",2000,146100
+"Vermont","dollars_2000",2000,111500
+"Virginia","dollars_2000",2000,125400
+"Washington","dollars_2000",2000,168300
+"West Virginia","dollars_2000",2000,72800
+"Wisconsin","dollars_2000",2000,112200
+"Wyoming","dollars_2000",2000,96600
+"United States","current",2000,119600
+"Alabama","current",2000,85100
+"Alaska","current",2000,144200
+"Arizona","current",2000,121300
+"Arkansas","current",2000,72800
+"California","current",2000,211500
+"Colorado","current",2000,166600
+"Connecticut","current",2000,166900
+"Delaware","current",2000,130400
+"District of Columbia","current",2000,157200
+"Florida","current",2000,105500
+"Georgia","current",2000,111200
+"Hawaii","current",2000,272700
+"Idaho","current",2000,106300
+"Illinois","current",2000,130800
+"Indiana","current",2000,94300
+"Iowa","current",2000,82500
+"Kansas","current",2000,83500
+"Kentucky","current",2000,86700
+"Louisiana","current",2000,85000
+"Maine","current",2000,98700
+"Maryland","current",2000,146000
+"Massachusetts","current",2000,185700
+"Michigan","current",2000,115600
+"Minnesota","current",2000,122400
+"Mississippi","current",2000,71400
+"Missouri","current",2000,89900
+"Montana","current",2000,99500
+"Nebraska","current",2000,88000
+"Nevada","current",2000,142000
+"New Hampshire","current",2000,133300
+"New Jersey","current",2000,170800
+"New Mexico","current",2000,108100
+"New York","current",2000,148700
+"North Carolina","current",2000,108300
+"North Dakota","current",2000,74400
+"Ohio","current",2000,103700
+"Oklahoma","current",2000,70700
+"Oregon","current",2000,152100
+"Pennsylvania","current",2000,97000
+"Rhode Island","current",2000,133000
+"South Carolina","current",2000,94900
+"South Dakota","current",2000,79600
+"Tennessee","current",2000,93000
+"Texas","current",2000,82500
+"Utah","current",2000,146100
+"Vermont","current",2000,111500
+"Virginia","current",2000,125400
+"Washington","current",2000,168300
+"West Virginia","current",2000,72800
+"Wisconsin","current",2000,112200
+"Wyoming","current",2000,96600
+"United States","dollars_2000",1990,101100
+"Alabama","dollars_2000",1990,68600
+"Alaska","dollars_2000",1990,120600
+"Arizona","dollars_2000",1990,102300
+"Arkansas","dollars_2000",1990,59200
+"California","dollars_2000",1990,249800
+"Colorado","dollars_2000",1990,105700
+"Connecticut","dollars_2000",1990,227200
+"Delaware","dollars_2000",1990,127900
+"District of Columbia","dollars_2000",1990,158300
+"Florida","dollars_2000",1990,98500
+"Georgia","dollars_2000",1990,91100
+"Hawaii","dollars_2000",1990,313400
+"Idaho","dollars_2000",1990,74400
+"Illinois","dollars_2000",1990,103400
+"Indiana","dollars_2000",1990,68900
+"Iowa","dollars_2000",1990,58600
+"Kansas","dollars_2000",1990,66700
+"Kentucky","dollars_2000",1990,64500
+"Louisiana","dollars_2000",1990,74700
+"Maine","dollars_2000",1990,111700
+"Maryland","dollars_2000",1990,148800
+"Massachusetts","dollars_2000",1990,208000
+"Michigan","dollars_2000",1990,77400
+"Minnesota","dollars_2000",1990,94500
+"Mississippi","dollars_2000",1990,58300
+"Missouri","dollars_2000",1990,76400
+"Montana","dollars_2000",1990,72300
+"Nebraska","dollars_2000",1990,64400
+"Nevada","dollars_2000",1990,122300
+"New Hampshire","dollars_2000",1990,165300
+"New Jersey","dollars_2000",1990,207400
+"New Mexico","dollars_2000",1990,89600
+"New York","dollars_2000",1990,168100
+"North Carolina","dollars_2000",1990,84100
+"North Dakota","dollars_2000",1990,64900
+"Ohio","dollars_2000",1990,81100
+"Oklahoma","dollars_2000",1990,61500
+"Oregon","dollars_2000",1990,85700
+"Pennsylvania","dollars_2000",1990,89100
+"Rhode Island","dollars_2000",1990,170600
+"South Carolina","dollars_2000",1990,78100
+"South Dakota","dollars_2000",1990,57700
+"Tennessee","dollars_2000",1990,74600
+"Texas","dollars_2000",1990,76100
+"Utah","dollars_2000",1990,88000
+"Vermont","dollars_2000",1990,122000
+"Virginia","dollars_2000",1990,116300
+"Washington","dollars_2000",1990,119300
+"West Virginia","dollars_2000",1990,61200
+"Wisconsin","dollars_2000",1990,79900
+"Wyoming","dollars_2000",1990,78700
+"United States","current",1990,79100
+"Alabama","current",1990,53700
+"Alaska","current",1990,94400
+"Arizona","current",1990,80100
+"Arkansas","current",1990,46300
+"California","current",1990,195500
+"Colorado","current",1990,82700
+"Connecticut","current",1990,177800
+"Delaware","current",1990,100100
+"District of Columbia","current",1990,123900
+"Florida","current",1990,77100
+"Georgia","current",1990,71300
+"Hawaii","current",1990,245300
+"Idaho","current",1990,58200
+"Illinois","current",1990,80900
+"Indiana","current",1990,53900
+"Iowa","current",1990,45900
+"Kansas","current",1990,52200
+"Kentucky","current",1990,50500
+"Louisiana","current",1990,58500
+"Maine","current",1990,87400
+"Maryland","current",1990,116500
+"Massachusetts","current",1990,162800
+"Michigan","current",1990,60600
+"Minnesota","current",1990,74000
+"Mississippi","current",1990,45600
+"Missouri","current",1990,59800
+"Montana","current",1990,56600
+"Nebraska","current",1990,50400
+"Nevada","current",1990,95700
+"New Hampshire","current",1990,129400
+"New Jersey","current",1990,162300
+"New Mexico","current",1990,70100
+"New York","current",1990,131600
+"North Carolina","current",1990,65800
+"North Dakota","current",1990,50800
+"Ohio","current",1990,63500
+"Oklahoma","current",1990,48100
+"Oregon","current",1990,67100
+"Pennsylvania","current",1990,69700
+"Rhode Island","current",1990,133500
+"South Carolina","current",1990,61100
+"South Dakota","current",1990,45200
+"Tennessee","current",1990,58400
+"Texas","current",1990,59600
+"Utah","current",1990,68900
+"Vermont","current",1990,95500
+"Virginia","current",1990,91000
+"Washington","current",1990,93400
+"West Virginia","current",1990,47900
+"Wisconsin","current",1990,62500
+"Wyoming","current",1990,61600
+"United States","dollars_2000",1980,93400
+"Alabama","dollars_2000",1980,67100
+"Alaska","dollars_2000",1980,151000
+"Arizona","dollars_2000",1980,108500
+"Arkansas","dollars_2000",1980,61600
+"California","dollars_2000",1980,167300
+"Colorado","dollars_2000",1980,126900
+"Connecticut","dollars_2000",1980,129900
+"Delaware","dollars_2000",1980,87900
+"District of Columbia","dollars_2000",1980,136200
+"Florida","dollars_2000",1980,89300
+"Georgia","dollars_2000",1980,73000
+"Hawaii","dollars_2000",1980,233800
+"Idaho","dollars_2000",1980,90300
+"Illinois","dollars_2000",1980,104500
+"Indiana","dollars_2000",1980,73600
+"Iowa","dollars_2000",1980,80400
+"Kansas","dollars_2000",1980,74800
+"Kentucky","dollars_2000",1980,67700
+"Louisiana","dollars_2000",1980,85100
+"Maine","dollars_2000",1980,75000
+"Maryland","dollars_2000",1980,115400
+"Massachusetts","dollars_2000",1980,95800
+"Michigan","dollars_2000",1980,77200
+"Minnesota","dollars_2000",1980,105100
+"Mississippi","dollars_2000",1980,62200
+"Missouri","dollars_2000",1980,72600
+"Montana","dollars_2000",1980,92000
+"Nebraska","dollars_2000",1980,75200
+"Nevada","dollars_2000",1980,136000
+"New Hampshire","dollars_2000",1980,95000
+"New Jersey","dollars_2000",1980,119200
+"New Mexico","dollars_2000",1980,89700
+"New York","dollars_2000",1980,90300
+"North Carolina","dollars_2000",1980,71300
+"North Dakota","dollars_2000",1980,86900
+"Ohio","dollars_2000",1980,88900
+"Oklahoma","dollars_2000",1980,70500
+"Oregon","dollars_2000",1980,112600
+"Pennsylvania","dollars_2000",1980,77400
+"Rhode Island","dollars_2000",1980,92600
+"South Carolina","dollars_2000",1980,69500
+"South Dakota","dollars_2000",1980,72400
+"Tennessee","dollars_2000",1980,70500
+"Texas","dollars_2000",1980,77400
+"Utah","dollars_2000",1980,113400
+"Vermont","dollars_2000",1980,83500
+"Virginia","dollars_2000",1980,95000
+"Washington","dollars_2000",1980,118600
+"West Virginia","dollars_2000",1980,76200
+"Wisconsin","dollars_2000",1980,96200
+"Wyoming","dollars_2000",1980,118400
+"United States","current",1980,47200
+"Alabama","current",1980,33900
+"Alaska","current",1980,76300
+"Arizona","current",1980,54800
+"Arkansas","current",1980,31100
+"California","current",1980,84500
+"Colorado","current",1980,64100
+"Connecticut","current",1980,65600
+"Delaware","current",1980,44400
+"District of Columbia","current",1980,68800
+"Florida","current",1980,45100
+"Georgia","current",1980,36900
+"Hawaii","current",1980,118100
+"Idaho","current",1980,45600
+"Illinois","current",1980,52800
+"Indiana","current",1980,37200
+"Iowa","current",1980,40600
+"Kansas","current",1980,37800
+"Kentucky","current",1980,34200
+"Louisiana","current",1980,43000
+"Maine","current",1980,37900
+"Maryland","current",1980,58300
+"Massachusetts","current",1980,48400
+"Michigan","current",1980,39000
+"Minnesota","current",1980,53100
+"Mississippi","current",1980,31400
+"Missouri","current",1980,36700
+"Montana","current",1980,46500
+"Nebraska","current",1980,38000
+"Nevada","current",1980,68700
+"New Hampshire","current",1980,48000
+"New Jersey","current",1980,60200
+"New Mexico","current",1980,45300
+"New York","current",1980,45600
+"North Carolina","current",1980,36000
+"North Dakota","current",1980,43900
+"Ohio","current",1980,44900
+"Oklahoma","current",1980,35600
+"Oregon","current",1980,56900
+"Pennsylvania","current",1980,39100
+"Rhode Island","current",1980,46800
+"South Carolina","current",1980,35100
+"South Dakota","current",1980,36600
+"Tennessee","current",1980,35600
+"Texas","current",1980,39100
+"Utah","current",1980,57300
+"Vermont","current",1980,42200
+"Virginia","current",1980,48000
+"Washington","current",1980,59900
+"West Virginia","current",1980,38500
+"Wisconsin","current",1980,48600
+"Wyoming","current",1980,59800
+"United States","dollars_2000",1970,65300
+"Alabama","dollars_2000",1970,46900
+"Alaska","dollars_2000",1970,87200
+"Arizona","dollars_2000",1970,62600
+"Arkansas","dollars_2000",1970,40300
+"California","dollars_2000",1970,88700
+"Colorado","dollars_2000",1970,66400
+"Connecticut","dollars_2000",1970,97900
+"Delaware","dollars_2000",1970,65700
+"District of Columbia","dollars_2000",1970,81800
+"Florida","dollars_2000",1970,57600
+"Georgia","dollars_2000",1970,56100
+"Hawaii","dollars_2000",1970,134800
+"Idaho","dollars_2000",1970,54200
+"Illinois","dollars_2000",1970,76000
+"Indiana","dollars_2000",1970,53000
+"Iowa","dollars_2000",1970,53400
+"Kansas","dollars_2000",1970,46500
+"Kentucky","dollars_2000",1970,48400
+"Louisiana","dollars_2000",1970,56100
+"Maine","dollars_2000",1970,49200
+"Maryland","dollars_2000",1970,71800
+"Massachusetts","dollars_2000",1970,79100
+"Michigan","dollars_2000",1970,67200
+"Minnesota","dollars_2000",1970,69100
+"Mississippi","dollars_2000",1970,43000
+"Missouri","dollars_2000",1970,55300
+"Montana","dollars_2000",1970,53800
+"Nebraska","dollars_2000",1970,47600
+"Nevada","dollars_2000",1970,86000
+"New Hampshire","dollars_2000",1970,63000
+"New Jersey","dollars_2000",1970,89900
+"New Mexico","dollars_2000",1970,49900
+"New York","dollars_2000",1970,86400
+"North Carolina","dollars_2000",1970,49200
+"North Dakota","dollars_2000",1970,49900
+"Ohio","dollars_2000",1970,67600
+"Oklahoma","dollars_2000",1970,42600
+"Oregon","dollars_2000",1970,59100
+"Pennsylvania","dollars_2000",1970,52200
+"Rhode Island","dollars_2000",1970,69900
+"South Carolina","dollars_2000",1970,49900
+"South Dakota","dollars_2000",1970,43800
+"Tennessee","dollars_2000",1970,48000
+"Texas","dollars_2000",1970,46100
+"Utah","dollars_2000",1970,64500
+"Vermont","dollars_2000",1970,63000
+"Virginia","dollars_2000",1970,65700
+"Washington","dollars_2000",1970,71100
+"West Virginia","dollars_2000",1970,43400
+"Wisconsin","dollars_2000",1970,66400
+"Wyoming","dollars_2000",1970,58800
+"United States","current",1970,17000
+"Alabama","current",1970,12200
+"Alaska","current",1970,22700
+"Arizona","current",1970,16300
+"Arkansas","current",1970,10500
+"California","current",1970,23100
+"Colorado","current",1970,17300
+"Connecticut","current",1970,25500
+"Delaware","current",1970,17100
+"District of Columbia","current",1970,21300
+"Florida","current",1970,15000
+"Georgia","current",1970,14600
+"Hawaii","current",1970,35100
+"Idaho","current",1970,14100
+"Illinois","current",1970,19800
+"Indiana","current",1970,13800
+"Iowa","current",1970,13900
+"Kansas","current",1970,12100
+"Kentucky","current",1970,12600
+"Louisiana","current",1970,14600
+"Maine","current",1970,12800
+"Maryland","current",1970,18700
+"Massachusetts","current",1970,20600
+"Michigan","current",1970,17500
+"Minnesota","current",1970,18000
+"Mississippi","current",1970,11200
+"Missouri","current",1970,14400
+"Montana","current",1970,14000
+"Nebraska","current",1970,12400
+"Nevada","current",1970,22400
+"New Hampshire","current",1970,16400
+"New Jersey","current",1970,23400
+"New Mexico","current",1970,13000
+"New York","current",1970,22500
+"North Carolina","current",1970,12800
+"North Dakota","current",1970,13000
+"Ohio","current",1970,17600
+"Oklahoma","current",1970,11100
+"Oregon","current",1970,15400
+"Pennsylvania","current",1970,13600
+"Rhode Island","current",1970,18200
+"South Carolina","current",1970,13000
+"South Dakota","current",1970,11400
+"Tennessee","current",1970,12500
+"Texas","current",1970,12000
+"Utah","current",1970,16800
+"Vermont","current",1970,16400
+"Virginia","current",1970,17100
+"Washington","current",1970,18500
+"West Virginia","current",1970,11300
+"Wisconsin","current",1970,17300
+"Wyoming","current",1970,15300
+"United States","dollars_2000",1960,58600
+"Alabama","dollars_2000",1960,42400
+"Alaska","dollars_2000",1960,44800
+"Arizona","dollars_2000",1960,54700
+"Arkansas","dollars_2000",1960,33000
+"California","dollars_2000",1960,74400
+"Colorado","dollars_2000",1960,60600
+"Connecticut","dollars_2000",1960,82300
+"Delaware","dollars_2000",1960,61100
+"District of Columbia","dollars_2000",1960,75900
+"Florida","dollars_2000",1960,58100
+"Georgia","dollars_2000",1960,46800
+"Hawaii","dollars_2000",1960,103000
+"Idaho","dollars_2000",1960,52200
+"Illinois","dollars_2000",1960,72400
+"Indiana","dollars_2000",1960,50300
+"Iowa","dollars_2000",1960,48800
+"Kansas","dollars_2000",1960,45800
+"Kentucky","dollars_2000",1960,43400
+"Louisiana","dollars_2000",1960,52700
+"Maine","dollars_2000",1960,43400
+"Maryland","dollars_2000",1960,58600
+"Massachusetts","dollars_2000",1960,68000
+"Michigan","dollars_2000",1960,59100
+"Minnesota","dollars_2000",1960,63100
+"Mississippi","dollars_2000",1960,38900
+"Missouri","dollars_2000",1960,53700
+"Montana","dollars_2000",1960,53700
+"Nebraska","dollars_2000",1960,46300
+"Nevada","dollars_2000",1960,74900
+"New Hampshire","dollars_2000",1960,52700
+"New Jersey","dollars_2000",1960,76900
+"New Mexico","dollars_2000",1960,52700
+"New York","dollars_2000",1960,75400
+"North Carolina","dollars_2000",1960,39400
+"North Dakota","dollars_2000",1960,48300
+"Ohio","dollars_2000",1960,66000
+"Oklahoma","dollars_2000",1960,38900
+"Oregon","dollars_2000",1960,51700
+"Pennsylvania","dollars_2000",1960,50300
+"Rhode Island","dollars_2000",1960,60600
+"South Carolina","dollars_2000",1960,37000
+"South Dakota","dollars_2000",1960,43400
+"Tennessee","dollars_2000",1960,40900
+"Texas","dollars_2000",1960,43400
+"Utah","dollars_2000",1960,62100
+"Vermont","dollars_2000",1960,47800
+"Virginia","dollars_2000",1960,53200
+"Washington","dollars_2000",1960,57700
+"West Virginia","dollars_2000",1960,37400
+"Wisconsin","dollars_2000",1960,62100
+"Wyoming","dollars_2000",1960,60600
+"United States","current",1960,11900
+"Alabama","current",1960,8600
+"Alaska","current",1960,9100
+"Arizona","current",1960,11100
+"Arkansas","current",1960,6700
+"California","current",1960,15100
+"Colorado","current",1960,12300
+"Connecticut","current",1960,16700
+"Delaware","current",1960,12400
+"District of Columbia","current",1960,15400
+"Florida","current",1960,11800
+"Georgia","current",1960,9500
+"Hawaii","current",1960,20900
+"Idaho","current",1960,10600
+"Illinois","current",1960,14700
+"Indiana","current",1960,10200
+"Iowa","current",1960,9900
+"Kansas","current",1960,9300
+"Kentucky","current",1960,8800
+"Louisiana","current",1960,10700
+"Maine","current",1960,8800
+"Maryland","current",1960,11900
+"Massachusetts","current",1960,13800
+"Michigan","current",1960,12000
+"Minnesota","current",1960,12800
+"Mississippi","current",1960,7900
+"Missouri","current",1960,10900
+"Montana","current",1960,10900
+"Nebraska","current",1960,9400
+"Nevada","current",1960,15200
+"New Hampshire","current",1960,10700
+"New Jersey","current",1960,15600
+"New Mexico","current",1960,10700
+"New York","current",1960,15300
+"North Carolina","current",1960,8000
+"North Dakota","current",1960,9800
+"Ohio","current",1960,13400
+"Oklahoma","current",1960,7900
+"Oregon","current",1960,10500
+"Pennsylvania","current",1960,10200
+"Rhode Island","current",1960,12300
+"South Carolina","current",1960,7500
+"South Dakota","current",1960,8800
+"Tennessee","current",1960,8300
+"Texas","current",1960,8800
+"Utah","current",1960,12600
+"Vermont","current",1960,9700
+"Virginia","current",1960,10800
+"Washington","current",1960,11700
+"West Virginia","current",1960,7600
+"Wisconsin","current",1960,12600
+"Wyoming","current",1960,12300
+"United States","dollars_2000",1950,44600
+"Alabama","dollars_2000",1950,27100
+"Alaska","dollars_2000",1950,21100
+"Arizona","dollars_2000",1950,36000
+"Arkansas","dollars_2000",1950,24800
+"California","dollars_2000",1950,57900
+"Colorado","dollars_2000",1950,43300
+"Connecticut","dollars_2000",1950,71900
+"Delaware","dollars_2000",1950,55000
+"District of Columbia","dollars_2000",1950,87800
+"Florida","dollars_2000",1950,40100
+"Georgia","dollars_2000",1950,31700
+"Hawaii","dollars_2000",1950,74400
+"Idaho","dollars_2000",1950,35500
+"Illinois","dollars_2000",1950,52400
+"Indiana","dollars_2000",1950,37700
+"Iowa","dollars_2000",1950,38300
+"Kansas","dollars_2000",1950,33100
+"Kentucky","dollars_2000",1950,32000
+"Louisiana","dollars_2000",1950,31100
+"Maine","dollars_2000",1950,29400
+"Maryland","dollars_2000",1950,48700
+"Massachusetts","dollars_2000",1950,55400
+"Michigan","dollars_2000",1950,45400
+"Minnesota","dollars_2000",1950,47300
+"Mississippi","dollars_2000",1950,25200
+"Missouri","dollars_2000",1950,38800
+"Montana","dollars_2000",1950,35100
+"Nebraska","dollars_2000",1950,35900
+"Nevada","dollars_2000",1950,53700
+"New Hampshire","dollars_2000",1950,37600
+"New Jersey","dollars_2000",1950,63100
+"New Mexico","dollars_2000",1950,34500
+"New York","dollars_2000",1950,61500
+"North Carolina","dollars_2000",1950,29700
+"North Dakota","dollars_2000",1950,32700
+"Ohio","dollars_2000",1950,50300
+"Oklahoma","dollars_2000",1950,31700
+"Oregon","dollars_2000",1950,41500
+"Pennsylvania","dollars_2000",1950,42400
+"Rhode Island","dollars_2000",1950,59200
+"South Carolina","dollars_2000",1950,31000
+"South Dakota","dollars_2000",1950,32800
+"Tennessee","dollars_2000",1950,31900
+"Texas","dollars_2000",1950,35200
+"Utah","dollars_2000",1950,44900
+"Vermont","dollars_2000",1950,38000
+"Virginia","dollars_2000",1950,39900
+"Washington","dollars_2000",1950,43400
+"West Virginia","dollars_2000",1950,33200
+"Wisconsin","dollars_2000",1950,48000
+"Wyoming","dollars_2000",1950,41300
+"United States","current",1950,7354
+"Alabama","current",1950,4473
+"Alaska","current",1950,3477
+"Arizona","current",1950,5935
+"Arkansas","current",1950,4087
+"California","current",1950,9564
+"Colorado","current",1950,7151
+"Connecticut","current",1950,11862
+"Delaware","current",1950,9079
+"District of Columbia","current",1950,14498
+"Florida","current",1950,6612
+"Georgia","current",1950,5235
+"Hawaii","current",1950,12283
+"Idaho","current",1950,5852
+"Illinois","current",1950,8646
+"Indiana","current",1950,6226
+"Iowa","current",1950,6320
+"Kansas","current",1950,5462
+"Kentucky","current",1950,5283
+"Louisiana","current",1950,5141
+"Maine","current",1950,4856
+"Maryland","current",1950,8033
+"Massachusetts","current",1950,9144
+"Michigan","current",1950,7496
+"Minnesota","current",1950,7806
+"Mississippi","current",1950,4159
+"Missouri","current",1950,6399
+"Montana","current",1950,5797
+"Nebraska","current",1950,5918
+"Nevada","current",1950,8859
+"New Hampshire","current",1950,6199
+"New Jersey","current",1950,10408
+"New Mexico","current",1950,5697
+"New York","current",1950,10152
+"North Carolina","current",1950,4901
+"North Dakota","current",1950,5396
+"Ohio","current",1950,8304
+"Oklahoma","current",1950,5228
+"Oregon","current",1950,6846
+"Pennsylvania","current",1950,6992
+"Rhode Island","current",1950,9767
+"South Carolina","current",1950,5112
+"South Dakota","current",1950,5410
+"Tennessee","current",1950,5268
+"Texas","current",1950,5805
+"Utah","current",1950,7409
+"Vermont","current",1950,6277
+"Virginia","current",1950,6581
+"Washington","current",1950,7169
+"West Virginia","current",1950,5473
+"Wisconsin","current",1950,7927
+"Wyoming","current",1950,6811
+"United States","dollars_2000",1940,30600
+"Alabama","dollars_2000",1940,16800
+"Alaska","dollars_2000",1940,NA
+"Arizona","dollars_2000",1940,14600
+"Arkansas","dollars_2000",1940,11400
+"California","dollars_2000",1940,36700
+"Colorado","dollars_2000",1940,21800
+"Connecticut","dollars_2000",1940,48000
+"Delaware","dollars_2000",1940,43300
+"District of Columbia","dollars_2000",1940,78800
+"Florida","dollars_2000",1940,23100
+"Georgia","dollars_2000",1940,20400
+"Hawaii","dollars_2000",1940,NA
+"Idaho","dollars_2000",1940,16700
+"Illinois","dollars_2000",1940,34100
+"Indiana","dollars_2000",1940,25000
+"Iowa","dollars_2000",1940,23400
+"Kansas","dollars_2000",1940,18000
+"Kentucky","dollars_2000",1940,21600
+"Louisiana","dollars_2000",1940,14700
+"Maine","dollars_2000",1940,20900
+"Maryland","dollars_2000",1940,31500
+"Massachusetts","dollars_2000",1940,39900
+"Michigan","dollars_2000",1940,29800
+"Minnesota","dollars_2000",1940,31500
+"Mississippi","dollars_2000",1940,12400
+"Missouri","dollars_2000",1940,24900
+"Montana","dollars_2000",1940,17200
+"Nebraska","dollars_2000",1940,22400
+"Nevada","dollars_2000",1940,20700
+"New Hampshire","dollars_2000",1940,26100
+"New Jersey","dollars_2000",1940,47100
+"New Mexico","dollars_2000",1940,6800
+"New York","dollars_2000",1940,45700
+"North Carolina","dollars_2000",1940,18800
+"North Dakota","dollars_2000",1940,16900
+"Ohio","dollars_2000",1940,35500
+"Oklahoma","dollars_2000",1940,13500
+"Oregon","dollars_2000",1940,24400
+"Pennsylvania","dollars_2000",1940,33400
+"Rhode Island","dollars_2000",1940,40000
+"South Carolina","dollars_2000",1940,22300
+"South Dakota","dollars_2000",1940,16800
+"Tennessee","dollars_2000",1940,19000
+"Texas","dollars_2000",1940,17600
+"Utah","dollars_2000",1940,24100
+"Vermont","dollars_2000",1940,29500
+"Virginia","dollars_2000",1940,27400
+"Washington","dollars_2000",1940,24500
+"West Virginia","dollars_2000",1940,24500
+"Wisconsin","dollars_2000",1940,33600
+"Wyoming","dollars_2000",1940,22600
+"United States","current",1940,2938
+"Alabama","current",1940,1610
+"Alaska","current",1940,NA
+"Arizona","current",1940,1400
+"Arkansas","current",1940,1100
+"California","current",1940,3527
+"Colorado","current",1940,2091
+"Connecticut","current",1940,4615
+"Delaware","current",1940,4159
+"District of Columbia","current",1940,7568
+"Florida","current",1940,2218
+"Georgia","current",1940,1957
+"Hawaii","current",1940,NA
+"Idaho","current",1940,1600
+"Illinois","current",1940,3277
+"Indiana","current",1940,2406
+"Iowa","current",1940,2253
+"Kansas","current",1940,1733
+"Kentucky","current",1940,2074
+"Louisiana","current",1940,1414
+"Maine","current",1940,2008
+"Maryland","current",1940,3031
+"Massachusetts","current",1940,3837
+"Michigan","current",1940,2863
+"Minnesota","current",1940,3024
+"Mississippi","current",1940,1189
+"Missouri","current",1940,2392
+"Montana","current",1940,1651
+"Nebraska","current",1940,2156
+"Nevada","current",1940,1987
+"New Hampshire","current",1940,2505
+"New Jersey","current",1940,4528
+"New Mexico","current",1940,656
+"New York","current",1940,4389
+"North Carolina","current",1940,1802
+"North Dakota","current",1940,1626
+"Ohio","current",1940,3415
+"Oklahoma","current",1940,1293
+"Oregon","current",1940,2343
+"Pennsylvania","current",1940,3205
+"Rhode Island","current",1940,3848
+"South Carolina","current",1940,2145
+"South Dakota","current",1940,1618
+"Tennessee","current",1940,1826
+"Texas","current",1940,1693
+"Utah","current",1940,2320
+"Vermont","current",1940,2836
+"Virginia","current",1940,2633
+"Washington","current",1940,2359
+"West Virginia","current",1940,2350
+"Wisconsin","current",1940,3232
+"Wyoming","current",1940,2174
+"California","current",2010,370900
+"Alabama","current",2010,123900
+"Alaska","current",2010,241400
+"Arizona","current",2010,168800
+"Arkansas","current",2010,106300
+"Colorado","current",2010,236600
+"Connecticut","current",2010,288800
+"Delaware","current",2010,243600
+"District of Columbia","current",2010,426900
+"Florida","current",2010,164200
+"Georgia","current",2010,156200
+"Hawaii","current",2010,525400
+"Idaho","current",2010,165100
+"Illinois","current",2010,191800
+"Kentucky","current",2010,121600
+"Indiana","current",2010,123300
+"Iowa","current",2010,123400
+"Kansas","current",2010,127300
+"Louisiana","current",2010,137500
+"Maine","current",2010,179100
+"Maryland","current",2010,301400
+"Massachusetts","current",2010,334100
+"Michigan","current",2010,123300
+"Minnesota","current",2010,194300
+"Mississippi","current",2010,100100
+"Missouri","current",2010,139000
+"Montana","current",2010,181200
+"Nebraska","current",2010,127600
+"Nevada","current",2010,174800
+"New Hampshire","current",2010,243000
+"New Jersey","current",2010,339200
+"New Mexico","current",2010,161200
+"New York","current",2010,296500
+"North Carolina","current",2010,154200
+"North Dakota","current",2010,123000
+"Ohio","current",2010,134400
+"Oklahoma","current",2010,111400
+"Oregon","current",2010,244500
+"Pennsylvania","current",2010,165500
+"Rhode Island","current",2010,254500
+"South Carolina","current",2010,138100
+"South Dakota","current",2010,129700
+"Tennessee","current",2010,139000
+"Texas","current",2010,128100
+"Utah","current",2010,217200
+"Vermont","current",2010,216800
+"Virginia","current",2010,249100
+"Washington","current",2010,271800
+"West Virginia","current",2010,95100
+"Wisconsin","current",2010,169400
+"Wyoming","current",2010,180100
+"Puerto Rico","current",2010,120300
