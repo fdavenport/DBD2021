@@ -1,4 +1,8 @@
-Supporting data and code
+# Contribution of historical precipitation change to US flood damages
+
+Supporting data and code for Davenport, Burke, and Diffenbaugh (2021) ['Contribution of historical precipitation change to US flood damages'](https://doi.org/10.1073/pnas.2017524118).
+
+If you find meaningful errors in the code or have questions, please contact Frances Davenport at fvdav@stanford.edu.
 
 ## Organization of repository: 
 
